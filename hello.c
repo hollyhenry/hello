@@ -13,6 +13,8 @@
     printf("Holly Henry\n");
     printf("Major is Electrical Engineering!\n");
     printf("Minor is Chemistry!\n");
+    printf("Chloe Sabatka\n");
+    printf("Major is Electrical Engineering\n");
 
   return 0;
 
